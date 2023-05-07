@@ -14,5 +14,5 @@ C# ve MSSQL
 
 <h2>Uygulama Ekranı</h2>
 
-![Ekran Görüntüsü Örneği]
+
 ![Ekran görüntüsü 2023-05-07 224321](https://user-images.githubusercontent.com/93845829/236700429-7c34b17a-eb34-48d3-99bf-8c080784b426.jpg)
