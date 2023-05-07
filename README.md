@@ -14,4 +14,4 @@ C# ve MSSQL
 
 <h2>Uygulama Ekranı</h2>
 
-![Ekran Görüntüsü Örneği][url=https://www.hizliresim.com/tcf54b8][img]https://i.hizliresim.com/tcf54b8.jpg[/img][/url]
+![Ekran Görüntüsü Örneği]https://www.hizliresim.com/tcf54b8
